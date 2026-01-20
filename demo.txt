@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 world
+=======
+well
+>>>>>>> bf2073e (wow)
